@@ -16,8 +16,14 @@
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a big time Grey's Anatomy fan, and I require coffee for survival
+<a href="https://github.com/devangi2000/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=github-readme-stats&theme=onedark" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
 
 <details>
- <img align= "left" alt="devangi2000's GitHub Stats" src="https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical&top-langs?username=devangi2000" />
+ <img align= "left" alt="devangi2000's GitHub Stats" src="https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical" />
  </details>
+ 
  
