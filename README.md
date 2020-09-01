@@ -1,8 +1,5 @@
 ### Hola!! 👋
 
-<!--
-**devangi2000/devangi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Machine Learning Projects 
 - 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate on Blogging and ML Projects
@@ -19,4 +16,4 @@
 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a big time Grey's Anatomy fan, and I require coffee for survival
--->
+
