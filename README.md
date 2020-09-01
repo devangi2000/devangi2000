@@ -17,3 +17,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a big time Grey's Anatomy fan, and I require coffee for survival
 
+<details>
+ <img align= "left" alt="devangi2000's GitHub Stats" src="https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true" />
+ </details>
