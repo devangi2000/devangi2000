@@ -14,7 +14,6 @@
      - Facebook - [Devangi Purkayastha](facebook.com/devangipurkayastha/)
      - Twitter - [@DevangiPurkaya1](https://twitter.com/DevangiPurkaya1)
 
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a big time Grey's Anatomy fan, and I require coffee for survival
 <a href="https://github.com/devangi2000/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=github-readme-stats&theme=onedark" />
