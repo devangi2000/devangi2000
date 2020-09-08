@@ -21,8 +21,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
 
-<details>
+
  <img align= "left" alt="devangi2000's GitHub Stats" src="https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical" />
- </details>
+ 
  
  
