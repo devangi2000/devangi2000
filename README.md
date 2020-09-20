@@ -1,12 +1,11 @@
 ## *Hello World*!! 👋
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
 - 🔭 I’m currently working on Machine Learning Projects 
 - 🌱 At the moment, I'm learning Computer Vision
-- 👯 I’m looking to collaborate on Blogging and ML Projects
+- 👯 I’m looking to collaborate on ML Projects
 - 🤔 I’m looking for help with Computer Vision and Deep Learning
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: 
-
  
 
      - LinkedIn - [Devangi Purkayastha](https://www.linkedin.com/in/devangi-purkayastha-72b04216b/) 
