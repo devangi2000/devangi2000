@@ -1,30 +1,59 @@
-## *Hello World*!! 👋
+
+### Hey 👋🏽, I'm [Devangi!](https://devangi2000.github.io) 
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=devangi2000.visitor-badge)
-> 🔭 I’m currently working on Machine Learning & Deep Learning Projects
+<br/>
+<a href="https://www.linkedin.com/in/devangipurkayastha/">
+  <img align="left" alt="Devangi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/devangi___/">
+  <img align="left" alt="Devangi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.reddit.com/user/devangi2000/">
+  <img align="left" alt="Devangi's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://www.hackerrank.com/devangipurkayas1/">
+  <img align="left" alt="Devangi's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+</a>
 
-> 🌱 At the moment, I'm learning Computer Vision
+<br />
+<br />
 
-> 👯 I’m looking to collaborate on ML Projects
+Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" />
+  
+**Talking about Me:**
 
-> 🤔 I’m looking for help with Computer Vision
+- 💻 I’m currently working on ML Projects and am looking for collaborators;
+- 🌱 I’m currently learning Computer Vision; 
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I'd try my best to help;
+- ⚡️ Fun-Fact: I love Grey's Anatomy, coffee, hot chocolate and almost everything with a dark theme!
+- 📫 How to reach me: devangidp2000@gmail.com;
+<!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
 
-> 💬 Ask me about Machine Learning
+**Languages and Tools:**  
 
-> 📫 How to reach me:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-     - LinkedIn - [Devangi Purkayastha](https://www.linkedin.com/in/devangi-purkayastha-72b04216b/) 
-     - Instagram - [devangi___](https://www.instagram.com/devangi___/)
-     - Facebook - [Devangi Purkayastha](facebook.com/devangipurkayastha/)
-     - Twitter - [@DevangiPurkaya1](https://twitter.com/DevangiPurkaya1)
-- ⚡ Fun fact: I'm a big time Grey's Anatomy fan, and I require coffee for survival
 
 
+![Devangi's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical")
+
+⭐️ From [devangi2000](https://github.com/devangi2000)
+
+<!--
+<a href="https://github.com/devangi2000/mnist-flask">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
+</a> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
-
-
- <img align= "left" alt="devangi2000's GitHub Stats" src="https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical" />
- 
- <!--<a href="https://github.com/devangi2000/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=github-readme-stats&theme=onedark" />
-</a>-->
- 
