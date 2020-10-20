@@ -22,11 +22,10 @@
 Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" />
   
-**Talking about Me:**
+**About Me:**
 
 - 💻 I’m currently working on ML Projects and am looking for collaborators;
-- 🌱 I’m currently learning Computer Vision; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 🌱 I’m currently learning Computer Vision;
 - 💬 Ask me about anything, I'd try my best to help;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - 📫 How to reach me: devangidp2000@gmail.com;
