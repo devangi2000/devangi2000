@@ -26,7 +26,7 @@ Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate ab
 
 - 💻 I’m currently working on ML Projects and am looking for collaborators;
 - 🌱 I’m currently learning Computer Vision;
-- 💬 Ask me about anything, I'd try my best to help;
+- 💬 Ask me about Computer Vision;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - 📫 How to reach me: devangidp2000@gmail.com;
 <!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
