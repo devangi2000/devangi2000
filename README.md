@@ -24,12 +24,11 @@ Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate ab
   
 **About Me:**
 
-- 💻 I’m currently working on ML Projects and am looking for collaborators;
+- 💻 I’m currently working on ML/DL Projects and am looking for collaborators;
 - 🌱 I’m presently learning the PyTorch framework ;
 - 💬 Ask me about Computer Vision;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
-- 📫 How to reach me: devangidp2000@gmail.com;
-<!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
+- 📫 Reach out to me: devangidp2000@gmail.com
 
 **Languages and Tools:**  
 
