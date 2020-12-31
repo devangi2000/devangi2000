@@ -28,6 +28,7 @@ Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate ab
 - 🌱 I’m presently learning the PyTorch framework ;
 - 💬 Ask me about Computer Vision;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
+- Feel free to read my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
 - 📫 Reach out to me: devangidp2000@gmail.com
 
 **Languages and Tools:**  
