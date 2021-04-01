@@ -19,15 +19,15 @@
 <br />
 <br />
 
-Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" />
+Hello folks, I'm Devangi Purkayastha, a Machine Learning and Deep Learning aficionado with works in the same 🚀. I'm currently looking to collaborate on ML/DL projects and research papers. Feel free to reach out and talk about ideas! 
+ 
   
 **About Me:**
 
-- 💻 I’m currently working on ML/DL Projects and am looking for collaborators;
-- 🌱 I’m presently learning the PyTorch framework ;
+- 💻 I’m currently a Computer Science Junior, with tremendous passion for Deep Learning and Computer Vision;
+- 🌱 I’m presently learning the PyTorch framework;
 - 💬 Ask me about Computer Vision;
-- ⚡️ Fun-Fact: I love Grey's Anatomy, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
+- ⚡️ Fun-Fact: I love Grey's Anatomy, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - Feel free to read my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
 - 📫 Reach out to me: devangidp2000@gmail.com
 
