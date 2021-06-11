@@ -19,16 +19,18 @@
 <br />
 <br />
 
-Hello folks, I'm Devangi Purkayastha, a Machine Learning and Deep Learning aficionado with works in the same 🚀. I'm currently looking to collaborate on ML/DL projects and research papers. Feel free to reach out and talk about ideas! 
+Hello folks, I'm Devangi Purkayastha, a Machine Learning and Deep Learning aficionado with works in the same 🚀.
+I'm proficient in C, C++, Python, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
+Feel free to reach out and talk about ideas!
  
   
 **About Me:**
 
-- 💻 I’m currently a Computer Science Junior, with tremendous passion for Deep Learning and Computer Vision;
+- 💻 I’m a Computer Science student, with tremendous passion for Artificial Intelligence and software development;
 - 🌱 I’m presently learning the PyTorch framework;
-- 💬 Ask me about Computer Vision;
+- 💬 Ask me about Machine Learning, Deep Learning, Computer Vision;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
-- Feel free to read my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
+- If interested, do check out my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
 - 📫 Reach out to me: devangidp2000@gmail.com
 
 **Languages and Tools:**  
