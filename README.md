@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hello folks, I'm Devangi Purkayastha, a Machine Learning and Deep Learning aficionado with works in the same 🚀.
+Hello folks, I'm Devangi Purkayastha, a Machine Learning and Deep Learning aficionado with works in these domains 🚀.
 I'm proficient in C, C++, Python, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
 Feel free to reach out and talk about ideas!
  
@@ -27,7 +27,6 @@ Feel free to reach out and talk about ideas!
 **About Me:**
 
 - 💻 I’m a Computer Science student, with tremendous passion for Artificial Intelligence and software development;
-- 🌱 I’m presently learning the PyTorch framework;
 - 💬 Ask me about Machine Learning, Deep Learning, Computer Vision;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - If interested, do check out my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
@@ -37,10 +36,12 @@ Feel free to reach out and talk about ideas!
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
