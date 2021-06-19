@@ -49,14 +49,30 @@ Feel free to reach out and talk about ideas!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=synthwave) -->
+![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=dracula)
+<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=merko) -->
+<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=gruvbox) -->
+<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=tokyonight) -->
 
-![Devangi's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical")
+
+<!-- ![Devangi's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical") -->
 
 <!--
 <a href="https://github.com/devangi2000/mnist-flask">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
 </a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark&langs_count=8&layout=compact)](https://github.com/devangi2000/github-readme-stats)
+
+<!-- [![Devangi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devangi2000)](https://github.com/devangi2000/github-readme-stats) -->
 
 ⭐️ From [devangi2000](https://github.com/devangi2000)
+<br/>
+<!-- <a href="https://github.com/devangi2000/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/devangi2000/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark&langs_count=8&layout=compact)](https://github.com/devangi2000/github-readme-stats" />
+</a> -->
 
