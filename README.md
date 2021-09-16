@@ -19,16 +19,20 @@
 <br />
 <br />
 
-Hello folks, I'm Devangi Purkayastha, a Machine Learning and Deep Learning aficionado with works in these domains 🚀.
-I'm proficient in C, C++, Python, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
-Feel free to reach out and talk about ideas!
+Hello folks, I'm Devangi Purkayastha, an aspiring Software Engineer and Machine Learning / Deep Learning aficionado 🚀.
+I'm proficient in C, C++, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
+I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
+Please feel free to reach out and talk about ideas!
  
   
-**About Me:**
+**More about me:**
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💻 I’m a Computer Science student, with tremendous passion for Artificial Intelligence and software development;
-- 💬 Ask me about Machine Learning, Deep Learning, Computer Vision;
-- ⚡️ Fun-Fact: I love Grey's Anatomy, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
+- 💻 I’m a final year Computer Science Student, with tremendous passion for Artificial Intelligence and software development;
+- 💪 Ask me about Machine Learning, Deep Learning, Computer Vision, Research, Data Structures and Algorithms;
+- 💬 Worked as a Software Engineer Intern @Dell Technologies
+- 📚 Worked as an Undergraduate Researcher @Samsung PRISM
+- 🎈 I'm a Microsoft Learn Student Ambassador and a Global Ambassador at WomenTech Network.
+- ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - If interested, do check out my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
 - 📫 Reach out to me: devangidp2000@gmail.com
 
@@ -48,6 +52,7 @@ Feel free to reach out and talk about ideas!
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flask/flask.png" alt="Windows" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/c/c.png" alt="C" height="40" style="vertical-align:top; margin:4px">
+   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" alt="C" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/cpp/cpp.png" alt="CPP" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/html/html.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/css/css.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
@@ -71,7 +76,7 @@ Feel free to reach out and talk about ideas!
 
   ![Devangi's github stats](https://github-readme-stats.vercel.app/api?username=devangi2000&count_private=true&show_icons=true&theme=tokyonight)
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark&langs_count=7&layout=compact&hide=prolog)](https://github.com/devangi2000/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/devangi2000/github-readme-stats)
 
 
 <!-- [![Devangi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devangi2000)](https://github.com/devangi2000/github-readme-stats) -->
