@@ -20,7 +20,7 @@
 <br />
 
 Hello folks, I'm Devangi Purkayastha, an aspiring Software Engineer and Machine Learning / Deep Learning aficionado 🚀.
-I'm proficient in C, C++, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
+I'm proficient in C, C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
 I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
 Please feel free to reach out and talk about ideas!
  
@@ -64,22 +64,19 @@ Please feel free to reach out and talk about ideas!
   </br>
 
 
-<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=synthwave) -->
-<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=dracula) -->
-<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=merko) -->
-<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=gruvbox) -->
-<!-- ![Devangi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devangi2000&show_icons=true&theme=tokyonight) -->
-
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats) -->
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devangi2000&theme=tokyonight)](https://github.com/devangi2000)
-
   ![Devangi's github stats](https://github-readme-stats.vercel.app/api?username=devangi2000&count_private=true&show_icons=true&theme=tokyonight)
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark&langs_count=10&layout=compact&hide=prolog)](https://github.com/devangi2000/github-readme-stats)
 
 
+[![Devangi's github activity graph](https://activity-graph.herokuapp.com/graph?username=devangi2000&theme=react-dark)](https://github.com/devangi2000/github-readme-activity-graph)
 <!-- [![Devangi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devangi2000)](https://github.com/devangi2000/github-readme-stats) -->
+
+<p align="center">Show ❤️ by starring and forking repositories you find helpful! </p>
+<p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
 
 ⭐️ From [devangi2000](https://github.com/devangi2000)
 <br/>
