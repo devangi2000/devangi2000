@@ -28,10 +28,11 @@ Please feel free to reach out and talk about ideas!
 **More about me:**
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 💻 I’m a final year Computer Science Student, with tremendous passion for Artificial Intelligence and software development;
-- 💪 Ask me about Machine Learning, Deep Learning, Computer Vision, Research, Data Structures and Algorithms;
+- 💪 Ask me about Machine Learning, Deep Learning, Computer Vision, Research, Data Structures and Algorithms, Computer Networks, Operating Systems;
 - 💬 Worked as a Software Engineer Intern @Dell Technologies
 - 📚 Worked as an Undergraduate Researcher @Samsung PRISM
 - 🎈 I'm a Microsoft Learn Student Ambassador and a Global Ambassador at WomenTech Network.
+- 🤝 I'd be up for long conversations over coffee about various topics ranging from software development, finance, economics to fitness and fashion;
 - ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - If interested, do check out my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
 - 📫 Reach out to me: devangidp2000@gmail.com
