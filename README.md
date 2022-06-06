@@ -20,20 +20,20 @@
 <br />
 
 Hello folks, I'm Devangi Purkayastha, an aspiring Software Engineer and Machine Learning / Deep Learning aficionado 🚀.
-I'm proficient in C, C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning, HTML, CSS. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
+I'm proficient in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
 I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
 Please feel free to reach out and talk about ideas!
  
   
 **More about me:**
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 💻 I’m a final year Computer Science Student, with tremendous passion for Artificial Intelligence and software development;
+- 💻 I’m a Software Engineer @vmware with tremendous passion for Software Development and Artificial Intelligence;
 - 💪 Ask me about Machine Learning, Deep Learning, Computer Vision, Research, Data Structures and Algorithms, Computer Networks, Operating Systems;
 - 💬 Worked as a Software Engineer Intern @Dell Technologies
 - 📚 Worked as an Undergraduate Researcher @Samsung PRISM
-- 🎈 I'm a Microsoft Learn Student Ambassador and a Global Ambassador at WomenTech Network.
+- 🎈 I'm a Global Ambassador at WomenTech Network.
 - 🤝 I'd be up for long conversations over coffee about various topics ranging from software development, finance, economics to fitness and fashion;
-- ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
+- ⚡️ Fun-Fact: I had a major career transition from being a Biology student to becoming a Software Engineer 😅. I love Grey's Anatomy, Money Heist, running, cooking, coffee and almost everything with a dark theme! I'm also a big-time foodie :p
 - If interested, do check out my blogs in Medium : <a href="devangipurkayastha.medium.com">devangipurkayastha.medium.com</a>
 - 📫 Reach out to me: devangidp2000@gmail.com
 
