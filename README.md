@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hello folks, I'm Devangi Purkayastha, an aspiring Software Engineer and Machine Learning / Deep Learning aficionado 🚀.
+Hey folks, I'm Devangi Purkayastha, a Software Engineer and Machine Learning / Deep Learning aficionado 🚀.
 I'm proficient in C++, Java, Python, Data Structures and Algorithms, Problem-Solving, SQL, Machine Learning, Deep Learning. I've worked extensively on projects using TensorFlow, Keras and PyTorch deep-learning libraries and am familiar with Flask and Streamlit. Besides, I'm also an ardent technical writer and would love to collaborate on ML/DL research papers/projects.
 I look forward to absorbing knowledge🧠, gaining experience 🏭, collaborating🤝, growing 🌱, upskilling and building impactful software through my work!
 Please feel free to reach out and talk about ideas!
